@@ -26,6 +26,6 @@ void print_list(const listint_t *list);
 void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
 void swap_backward(listint_t *c);
-void swap_forward(listint_t *c)
+void swap_forward(listint_t *c);
 
 #endif
